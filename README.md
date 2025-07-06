@@ -13,6 +13,10 @@ A sustainable e-commerce React application that showcases eco-friendly products,
 - 📄 Annual Report section
 - 📱 Social media & contact links in the footer
 
+📸 Screenshots
+🏡 Homepage / Hero Section
 
+🛍️ Product Listing & Cart Icon
 
+🧑‍🤝‍🧑 About Us Section
 
