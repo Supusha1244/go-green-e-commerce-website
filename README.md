@@ -14,9 +14,11 @@ A sustainable e-commerce React application that showcases eco-friendly products,
 - 📱 Social media & contact links in the footer
 
 ## 📸 Screenshots
-🏡 Homepage / Hero Section
+- 🏡 Homepage / Hero Section
 ![App Preview](./Homepage.png)
-🛍️ Product Listing & Cart Icon
-![App Preview](./ProductListing.png)
-🧑‍🤝‍🧑 About Us Section
 
+-🛍️ Product Listing & Cart Icon
+![App Preview](https://github.com/Supusha1244/go-green-e-commerce-website/blob/main/Product%20Listing.png)
+
+- 🧑‍🤝‍🧑 About Us Section
+  ![App Preview](https://github.com/Supusha1244/go-green-e-commerce-website/blob/main/About%20Us.png)
