@@ -22,3 +22,63 @@ A sustainable e-commerce React application that showcases eco-friendly products,
 
 - 🧑‍🤝‍🧑 About Us Section
   ![App Preview](https://github.com/Supusha1244/go-green-e-commerce-website/blob/main/About%20Us.png)
+  ## 🚀 Getting Started
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/go-green-store.git
+cd go-green-store
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the development server
+
+```bash
+npm run dev
+```
+
+➡️ Visit your app at: [http://localhost:5173](http://localhost:5173)
+
+---
+
+## 📁 Folder Structure
+
+```
+go-green-store/
+│
+├── public/              # Static assets
+├── src/
+│   ├── components/      # React components
+│   ├── pages/           # Pages like Home, About, ProductList
+│   ├── context/         # Auth context (Firebase or custom)
+│   └── App.jsx          # Main app
+│
+├── README.md
+└── package.json
+```
+
+---
+
+## 📦 Tech Stack
+
+- ⚛️ React
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 🔥 Firebase (optional, for Auth/DB)
+- 🛠️ Heroicons & React Icons
+
+---
+
+## 🧑‍💻 Contributing
+
+Pull requests are welcome! For major changes, open an issue first to discuss.
+
